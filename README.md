@@ -1,4 +1,4 @@
-# ✈️ FlyEase – Online Flight Booking System
+# ✈️ FlyEase – Online Flight Booking Website
 
 FlyEase is a dynamic and user-friendly online flight reservation system built with PHP and MySQL. It provides passengers with an intuitive interface to search, book, and manage their flights, while also offering a powerful admin panel for flight scheduling, booking oversight, and payment tracking.
 
